@@ -1,4 +1,3 @@
-
 # Topological Analysis of Diffusion MRI in Parkinson's Disease
 
 This research project explores whether topological features derived from diffusion MRI and structural brain connectivity differ between Parkinson's disease (PD) participants and controls, and between two study sessions. The repository contains analysis notebooks, processing scripts, presentations, and the internship report.
@@ -102,6 +101,3 @@ README.md                       Project guide
 ## Reference
 
 The complete methods and discussion are in [the internship report](Final_report.pdf). The public diffusion MRI source referenced in the report is [OpenNeuro `ds001907`](https://openneuro.org/datasets/ds001907).
-
-
-The final report of the project can be viewed [here](https://github.com/imaneelmissaoui/Internship-neurodatascience/blob/main/Final_report.pdf)
